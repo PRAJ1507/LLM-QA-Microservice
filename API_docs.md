@@ -110,7 +110,7 @@ Response:
 📦 Postman Collection (JSON)
 You can copy and import the below into Postman via File → Import → Raw Text.
 
-<details> <summary>🔽 Click to expand Postman Collection JSON</summary>
+ Postman Collection JSON
 ```bash
 {
   "info": {
@@ -175,4 +175,3 @@ You can copy and import the below into Postman via File → Import → Raw Text.
   ]
 }
 ```
-</details>
