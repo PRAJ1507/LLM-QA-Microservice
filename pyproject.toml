@@ -1,0 +1,22 @@
+[project]
+name = "llm-qa-microservice"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "asyncpg>=0.30.0",
+    "chromadb>=1.0.15",
+    "fastapi>=0.116.1",
+    "httpx>=0.28.1",
+    "langchain>=0.3.27",
+    "langchain-chroma>=0.2.5",
+    "langchain-community>=0.3.27",
+    "langchain-ollama>=0.3.6",
+    "pydantic>=2.11.7",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.1.1",
+    "sqlalchemy>=2.0",
+    "streamlit>=1.47.1",
+    "uvicorn[standard]>=0.35.0",
+]
